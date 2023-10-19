@@ -7,7 +7,7 @@
 ## Getting Started
 
 ### Description
-- This a simple library management system with CRUD operations, this project considered the backend pavilion of the system.
+- This a simple library management system with CRUD operations, this project considered as the backend pavilion of the system.
 - It is responsible for the communication with the database and execute all CRUD operations.
 - the API is hosted in Azure cloud
 
