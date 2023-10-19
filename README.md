@@ -1,6 +1,6 @@
 # library-management-system-api
 
-> This project is an API developed using .NET 7 API.
+> This project is an API developed using .NET 7 Web API.
 
 >(https://library-management-app.azurewebsites.net/swagger/) 
 
