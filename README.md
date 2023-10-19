@@ -26,7 +26,13 @@
 
 - .Net 7 needs to be installed on the machine
 - Visual Studio 2022 (recomended) or 2019
-
+  
+### Libraries used in the project:
+- Microsoft.AspNetCore.Mvc
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.ChangeTracking
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
 
 ### Executing program
  
