@@ -14,8 +14,7 @@
 ### Data Access
 
 -  Entity framework core has been used as persistance framework for the application.
--  Repsitories has been used as a mediator between the domain and persistance framework layers
--  Multiple libararies has been used for data access (Microsoft.EntityFrameworkCore,Microsoft.EntityFrameworkCore.SqlServer,Microsoft.EntityFrameworkCore.Tools)
+-  Repsitories has been implemented to work as a mediator between the domain and persistance framework layers
 
 ### API Documentation
  
