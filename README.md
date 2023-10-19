@@ -37,8 +37,8 @@
  
  - Clone the repository.
  - Configure your own connection string.
- - run the migration and update the database.
- - start the project.
+ - Run the migration and update the database.
+ - Start the project.
 
 ### Version History
 
