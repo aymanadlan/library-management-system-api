@@ -9,7 +9,7 @@
 ### Description
 - This a simple library management system with CRUD operations, this project considered as the backend pavilion of the system.
 - It is responsible for the communication with the database and execute all CRUD operations.
-- the API is hosted in Azure cloud.
+- The API is hosted in Azure cloud.
 
 ### Data Access
 
@@ -23,7 +23,7 @@
   
 ### Installing
 
-- .Net 7 needs to be installed on the machine
+- .NET 7 needs to be installed on the machine
 - Visual Studio 2022 (recomended) or 2019
   
 ### Libraries used in the project:
